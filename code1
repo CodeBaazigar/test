@@ -1,1 +1,3 @@
+#!/bin/bash
 this is file one which will be posted to github soon
+echo "hello bachoon"
